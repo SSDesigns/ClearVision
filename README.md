@@ -1,5 +1,5 @@
 # ClearVision v6
-
+Random Theme attempting to convert to support BDV2
 ## Installing
 Download the theme file and move it into your BetterDiscord themes folder:
 
